@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the code for my college project on Human-Computer Interaction (IHC). The project utilizes Next.js and TypeScript to demonstrate how Next.js works, how TypeScript is integrated, and the overall structure of the project components. The application fetches data from the Pokédex API, utilizes interfaces to handle the data, and displays information about 6 different Pokémon on the screen.
+https://ihc-next-example.netlify.app/
 
 ## Table of Contents
 
